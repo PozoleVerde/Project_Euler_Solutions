@@ -9,8 +9,8 @@
 */
 void main(){
   int sum = 0, i;
-	for(i = 0; i < 1000; i++)		//brute force
-		if(i % 3 == 0 || i % 5 == 0) 
-			sum+=i;
-	printf("The sum of the numbers that are multiples of 3 or 5 below 1000 is equal to %d\n",sum);
+  for(i = 0; i < 1000; i++)		//brute force
+    if(i % 3 == 0 || i % 5 == 0) 
+      sum+=i;
+   printf("The sum of the numbers that are multiples of 3 or 5 below 1000 is equal to %d\n",sum);
 }
