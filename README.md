@@ -4,8 +4,6 @@ DESCRIPTION:
 
 These are my attempts at solving project Euler problems.
 
-I will only post the problems that I have gotten correct.
-
 RUNNING IT:
   Ubuntu 17.10:
 
@@ -20,6 +18,8 @@ RUNNING IT:
   Ensure that you have GCC installed. To download GCC go to www.mingw.org
   
 DISCLAIMER:
+  
+  I will only post the problems that I have gotten correct.
 
   While there are many languages I could have chosen to solve these problems, I decided to use C.
   This is not because of efficiency or preference. This is because I am currently a student and am learning the language.
