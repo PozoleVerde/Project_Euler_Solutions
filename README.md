@@ -5,6 +5,7 @@ These are my attempts at solving project Euler problems.
 To run the programs on ubuntu 17.10:
 
 <code>gcc -o executibleName problemx.c </code>
+
 <code> ./executibleName </code>
 
 While there are many languages I could have chosen to solve these problems, I decided to use C.
