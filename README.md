@@ -4,8 +4,8 @@ These are my attempts at solving project Euler problems.
 
 To run the programs on ubuntu 17.10:
 
-<code>gcc -o executibleName problemx.c 
-./executibleName</code>
+<code>gcc -o executibleName problemx.c </code>
+<code> ./executibleName </code>
 
 While there are many languages I could have chosen to solve these problems, I decided to use C.
 This is not because of efficiency or preference. This is because I am currently a student and am learning the language.
