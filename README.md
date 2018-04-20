@@ -3,7 +3,8 @@
 DESCRIPTION:
 
 These are my attempts at solving project Euler problems.
-Only Problems that I have gotten correct I will post.
+
+I will only post the problems that I have gotten correct.
 
 RUNNING IT:
   Ubuntu 17.10:
