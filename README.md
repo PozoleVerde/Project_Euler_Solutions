@@ -14,9 +14,8 @@ RUNNING IT:
   
     gcc <filename>.c
     filename.exe
-
-  IMPORTANT FOR WINDOWS:
-    Ensure that you have GCC installed. To download GCC go to www.mingw.org
+  
+  Ensure that you have GCC installed. To download GCC go to www.mingw.org
   
 DISCLAIMER:
 
