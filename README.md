@@ -2,7 +2,7 @@
 
 DESCRIPTION:
 
-\tThese are my attempts at solving project Euler problems.
+These are my attempts at solving project Euler problems.
 
 RUNNING IT:
   Ubuntu 17.10:
